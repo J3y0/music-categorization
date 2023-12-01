@@ -24,3 +24,5 @@ If you want to use notebooks defined in this repository, you can upload them on 
 ## Dataset used
 
 We used GTzan dataset for this project as a base. You can download it [here](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification). Then, we proceed to data processing. You can find the related notebook in `data_processing/`.
+
+You can find the processed data by following this [link](https://drive.google.com/drive/folders/1Yid03FGzQOmdcSoYuXXJsaHBIshL9Zvl).
